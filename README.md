@@ -1,1 +1,1 @@
-# LZ77-Implementation
+# LZ77 Compression and Decompression in Java
